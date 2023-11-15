@@ -12,3 +12,6 @@ Factory I/O is a 3D factory simulation for learning automation technologies. Des
 The most common scenario is to use Factory I/O as a PLC training platform since PLC are the most common controllers found in industrial applications. However, it can also be used with microcontrollers, SoftPLC, Modbus, among many other technologies.
 
 **https://docs.factoryio.com/**
+
+# TIA PORTAL
+[Totally Integrated Automation] Siemens' engineering platform that offers a complete automation solution package for an optimized solution in machinery engineering and manufacturing processes.
